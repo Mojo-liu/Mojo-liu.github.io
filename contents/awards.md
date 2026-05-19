@@ -1,3 +1,3 @@
 - First-prize Academic Scholarship, South China University of Technology (2020–2023).
-- Excellent Case Award:"Abnormal PAB Deployment and IP Tearing Case Report".
-- 2^nd^ Prize in Project Award:"Mechanism Research on Active/Passive Safety for China-NCAP/CIASI Protocol Updates"
+- Excellent Case Award:"Abnormal PAB Deployment and IP Tearing Case Report"(2025).
+- 2nd Prize in Project Award:"Mechanism Research on Active/Passive Safety for China-NCAP/CIASI Protocol Updates"(2025).
