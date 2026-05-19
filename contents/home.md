@@ -8,7 +8,7 @@ MA.Sc., Theoretical Physics, South China University of Technology, 2020—2023.\
 B.E., Safety Engineering, Heilongjiang University of Science and Technology, 2015—2019.
 
 #### Position
-Senior Vehicle Safety Engineer, BYD Company Limited.
+Senior Vehicle Safety Engineer, BYD Company Limited(08/2023-12/2025).
 
 #### Research Interests
 Quantum Molecular Dynamics, Pion Production, Symmetry Energy, Collective flow.
