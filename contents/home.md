@@ -1,8 +1,5 @@
-
-He is currently working as a Senior Vehicle Safety Engineer at BYD Company Limited.
-
 #### Email
-hengjinliu9[at]Gmail.com
+hengjinliu9@gmail.com
 
 #### Education
 MA.Sc., Theoretical Physics, South China University of Technology, 2020—2023.\
