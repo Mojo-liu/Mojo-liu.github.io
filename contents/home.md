@@ -13,6 +13,9 @@ Senior Vehicle Safety Engineer, BYD Company Limited(08/2023-12/2025).
 #### Research Interests
 Quantum Molecular Dynamics, Pion Production, Symmetry Energy, Collective flow.
 
+#### Skills
+Programming, simulation, data processing and visualization: FORTRAN, PRIMER, HyperWorks, ANSA, ORIGIN, GraphPad, Prism
+
 #### Personal Documents
 <a href="https://github.com/Mojo-liu/Mojo-liu.github.io/raw/main/CV_HengjinLiu.pdf" target="_blank"> 
 <button style="padding:6px 16px;background:#238636;color:white;border:none;border-radius:4px;">Download CV_HengjinLiu.pdf</button>
